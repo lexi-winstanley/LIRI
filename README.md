@@ -16,7 +16,7 @@ From the terminal type the following:
 Then press enter. LIRI will query the appropriate API and display the results in the terminal. LIRI will also print the commands/results to the log.txt file. 
 
 If no arguments are passed to LIRI or an invalid command is used an error will appear: 
-
+![No Arguments Error](https://github.com/lexi-winstanley/LIRI/images/noArguments.PNG)
 
 ## Possible Commands/Results 
 **Command:** concert-this "artist/band"
