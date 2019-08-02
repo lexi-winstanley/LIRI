@@ -30,12 +30,14 @@ if (allArgs.length > 3) {
     runLIRI(action, query);
 } else {
     console.log('Please enter an action for LIRI bot to take: \nconcert-this "ARTIST/BAND" \nspotify-this-song "SONG NAME" \nmovie-this "MOVIE NAME" \ndo-what-it-says');
+    appendLog('Invalid LIRI command');
 }
 
 
 function concert(query) {
     if (query === null) {
         console.log('An artist or band name is required to run this command');
+        appendLog('An artist or band name is required to run this command');
         return;
     }
     let concertUrl = `https://rest.bandsintown.com/artists/${query}/events?app_id=codingbootcamp`;
@@ -224,6 +226,8 @@ function runLIRI(action, query) {
             break;
         default:
             console.log('Sorry. LIRI can\'t do that.');
+            console.log('Please enter an action for LIRI bot to take: \nconcert-this "ARTIST/BAND" \nspotify-this-song "SONG NAME" \nmovie-this "MOVIE NAME" \ndo-what-it-says');
+            appendLog('Invalid LIRI command');
     }
 }
 

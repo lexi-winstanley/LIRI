@@ -1,0 +1,409 @@
+
+Invalid LIRI command
+find
+Invalid LIRI command
+concert-this,"halestorm"
+---------------
+Venue Name: Thompson-Boling Arena
+Location: Knoxville, TN, United States
+Date: 08/03/2019
+---------------
+---------------
+Venue Name: Grand Ole Opry
+Location: Nashville, TN, United States
+Date: 08/04/2019
+---------------
+---------------
+Venue Name: CMAC Performing Arts Center
+Location: Canadaigua, NY, United States
+Date: 08/07/2019
+---------------
+---------------
+Venue Name: Bethel Woods Center For the Arts
+Location: Bethel, NY, United States
+Date: 08/08/2019
+---------------
+---------------
+Venue Name: Maine Savings Pavillione
+Location: Portland, ME, United States
+Date: 08/10/2019
+---------------
+---------------
+Venue Name: Bank of New Hampshire Pavilion
+Location: Gilford, NH, United States
+Date: 08/11/2019
+---------------
+---------------
+Venue Name: Colorado State Fairgrounds
+Location: Pueblo, CO, United States
+Date: 08/24/2019
+---------------
+---------------
+Venue Name: Nebraska State Fair
+Location: Grand Island, NE, United States
+Date: 08/31/2019
+---------------
+---------------
+Venue Name: Resch Center
+Location: Green Bay, WI, United States
+Date: 09/20/2019
+---------------
+---------------
+Venue Name: Jiffy Lube Live
+Location: Bristow, VA, United States
+Date: 08/13/2019
+---------------
+---------------
+Venue Name: PNC Bank Art Center
+Location: Holmdel, NJ, United States
+Date: 08/15/2019
+---------------
+---------------
+Venue Name: Danny Sanford Premier Center 
+Location: Sioux Falls, SD, United States
+Date: 09/24/2019
+---------------
+---------------
+Venue Name: Intrust Arena
+Location: Wichita, KS, United States
+Date: 09/25/2019
+---------------
+---------------
+Venue Name: BB&T Pavilion
+Location: Camden, NJ, United States
+Date: 08/16/2019
+---------------
+---------------
+Venue Name: Show Me Center
+Location: Cape Girardeau, MO, United States
+Date: 09/27/2019
+---------------
+---------------
+Venue Name: Kentucky Expo Center
+Location: Louisville, KY, United States
+Date: 09/28/2019
+---------------
+---------------
+Venue Name: Alpharetta Amphitheatre 
+Location: Alpharetta, GA, United States
+Date: 09/29/2019
+---------------
+---------------
+Venue Name: Coral Sky Amphitheatre
+Location: West Palm Beach, FL, United States
+Date: 10/01/2019
+---------------
+---------------
+Venue Name: Pensacola Civic Center
+Location: Pensacola, FL, United States
+Date: 10/04/2019
+---------------
+---------------
+Venue Name:  The Mid-South Fair at Landers Center
+Location: Southaven, MS, United States
+Date: 10/05/2019
+---------------
+---------------
+Venue Name: The Walmart AMP
+Location: Rogers, AR, United States
+Date: 10/06/2019
+---------------
+---------------
+Venue Name: Budweiser Arena 
+Location: Loveland, CO, United States
+Date: 10/08/2019
+---------------
+---------------
+Venue Name: Usana Pavilion 
+Location: Salt Lake City, UT, United States
+Date: 10/09/2019
+---------------
+---------------
+Venue Name: Aftershock Festival
+Location: Sacramento, CA, United States
+Date: 10/11/2019
+---------------
+---------------
+Venue Name: Rabobank Arena, Theater and Convention Center
+Location: Bakersfield, CA, United States
+Date: 10/12/2019
+---------------
+---------------
+Venue Name: Citizens Business Bank Arena
+Location: Ontario, CA, United States
+Date: 10/13/2019
+---------------
+---------------
+Venue Name: Cal Coast Credit Union Amphitheater
+Location: San Diego, CA, United States
+Date: 10/15/2019
+---------------
+---------------
+Venue Name: TaxSlayer Center
+Location: Moline, IL, United States
+Date: 09/22/2019
+---------------
+---------------
+Venue Name: BOK Center
+Location: Tulsa, OK, United States
+Date: 10/18/2019
+---------------
+---------------
+Venue Name: The Family Arena
+Location: Saint Charles, MO, United States
+Date: 10/20/2019
+---------------
+---------------
+Venue Name: Salle Pleyel
+Location: Paris, France
+Date: 11/13/2019
+---------------
+---------------
+Venue Name: Palladium Cologne
+Location: Cologne, Germany
+Date: 11/14/2019
+---------------
+---------------
+Venue Name: TONHALLE
+Location: Munich, Germany
+Date: 11/16/2019
+---------------
+---------------
+Venue Name: Capitol Theater GmbH Offenbach
+Location: Offenbach Am Main, Germany
+Date: 11/18/2019
+---------------
+---------------
+Venue Name: Grosse Freiheit 36
+Location: Hamburg, Germany
+Date: 11/19/2019
+---------------
+---------------
+Venue Name: AFAS Live
+Location: Amsterdam, Netherlands
+Date: 11/20/2019
+---------------
+---------------
+Venue Name: SSE Hydro
+Location: Glasgow, United Kingdom
+Date: 11/24/2019
+---------------
+---------------
+Venue Name: Motorpoint Arena
+Location: Nottingham, United Kingdom
+Date: 11/25/2019
+---------------
+---------------
+Venue Name: Motorpoint Arena Cardiff
+Location: Cardiff, United Kingdom
+Date: 11/27/2019
+---------------
+---------------
+Venue Name: Alexandra Place
+Location: Little London, United Kingdom
+Date: 11/28/2019
+---------------
+---------------
+Venue Name: TSUTAYA O-EAST
+Location: Shibuya, Tōkyō-to, Japan
+Date: 12/02/2019
+---------------
+---------------
+Venue Name: Umeda CLub Quattro
+Location: Osaka, Osaka Prefecture, Japan
+Date: 12/03/2019
+---------------
+---------------
+Venue Name: Enmore Park
+Location: Broadway, Sydney, Australia
+Date: 12/06/2019
+---------------
+---------------
+Venue Name: The Tivoli (SOLO)
+Location: Brisbane, Australia
+Date: 12/07/2019
+---------------
+---------------
+Venue Name: Exhibition Hall at the Alliant Energy Center
+Location: Madison, WI, United States
+Date: 09/21/2019
+---------------
+---------------
+Venue Name: Comerica Pavilian 
+Location: Phoenix, AZ, United States
+Date: 10/16/2019
+---------------
+---------------
+Venue Name: Hertz Arena
+Location: Estero, FL, United States
+Date: 10/02/2019
+---------------
+---------------
+Venue Name: Forum Melbourne
+Location: Melbourne, Australia
+Date: 12/11/2019
+---------------
+---------------
+Venue Name: ShipRocked (2/1 – 2/6)
+Location: New Orleans, LA, United States
+Date: 02/01/2020
+---------------
+---------------
+Venue Name: The Gov
+Location: Adelaide, Australia
+Date: 12/09/2019
+---------------
+concert-this
+An artist or band name is required to run this command
+spotify-this-song,"now that we're dead"
+---------------
+Artist: Metallica
+Track Title: Now That We're Dead
+Album: Hardwired…To Self-Destruct
+Preview Link: https://p.scdn.co/mp3-preview/cc72bb151c05f148ca2e692bba2558604f2dd3fe?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+---------------
+Artist: Metallica
+Track Title: Now That We're Dead
+Album: Hardwired…To Self-Destruct (Deluxe)
+Preview Link: https://p.scdn.co/mp3-preview/cc72bb151c05f148ca2e692bba2558604f2dd3fe?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+---------------
+Artist: Alexandria Jessen
+Track Title: We're All Smiling
+Album: Now That I'm Dead I Will Become Satan
+Preview Link: https://p.scdn.co/mp3-preview/a7964631d90ff4ce847846cbbb4dfb4e89767f04?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+spotify-this-song
+---------------
+Artist(s): Ace of Base
+Track Title: The Sign
+Album: The Sign (US Album) [Remastered]
+Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+movie-this,"serenity"
+---------------
+Title: Serenity
+Year Released: 2005
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 83%
+Production Country: USA
+Language: English, Mandarin
+Plot: The crew of the ship Serenity try to evade an assassin sent to recapture one of their members who is telepathic.
+Actors: Nathan Fillion, Gina Torres, Alan Tudyk, Morena Baccarin
+---------------
+movie-this
+---------------
+Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.8/10
+Rotten Tomatoes Rating: 67%
+Production Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+---------------
+do-what-it-says
+spotify-this-song,"I miss the misery"
+---------------
+Artist: Halestorm
+Track Title: I Miss the Misery
+Album: The Strange Case of... (Deluxe)
+Preview Link: https://p.scdn.co/mp3-preview/e4de13777a850adc69d4ae9f3aa82cf13ab1ba14?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+---------------
+Artist: Halestorm
+Track Title: I Miss the Misery
+Album: The Strange Case of... (Deluxe)
+Preview Link: https://p.scdn.co/mp3-preview/e4de13777a850adc69d4ae9f3aa82cf13ab1ba14?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+---------------
+Artist: Treat
+Track Title: I Don't Miss the Misery
+Album: Ghost of Graceland
+Preview Link: https://p.scdn.co/mp3-preview/d0968905f49a4c532ccc9f2827598308fdc7aaf4?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+---------------
+Artist: Ten Second Songs
+Track Title: I Miss the Misery in 20 Styles
+Album: Songs in 20 Styles or More
+Preview Link: https://p.scdn.co/mp3-preview/a8f636a919285115bf6c87c182c90d47f991ec31?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+---------------
+Artist: Fake Smiles
+Track Title: I Miss The Misery
+Album: Keyboard Warriors
+Preview Link: https://p.scdn.co/mp3-preview/a1c56649aa938db9f3ae6ecf3450bdd5862a2bb1?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+---------------
+Artist: Helena Wild, SoundBro
+Track Title: I Miss The Misery
+Album: I Miss The Misery
+Preview Link: https://p.scdn.co/mp3-preview/642a58be7c4eef004da2c7356a18eba29e58243a?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+---------------
+Artist: Fake Smiles
+Track Title: I Miss the Misery
+Album: Keyboard Warriors
+Preview Link: https://p.scdn.co/mp3-preview/a1c56649aa938db9f3ae6ecf3450bdd5862a2bb1?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+---------------
+Artist: Piano Tribute Players
+Track Title: I Miss the Misery
+Album: Piano Tribute to Halestorm
+Preview Link: https://p.scdn.co/mp3-preview/6d145e828cf1f9d5c653ae8cbfdd2f3d95f51c80?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+---------------
+Artist: Twinkle Twinkle Little Rock Star
+Track Title: I Miss the Misery
+Album: Lullaby Versions of Halestorm
+Preview Link: https://p.scdn.co/mp3-preview/af9cfc3454edcecdecef520ab28602b89e539eac?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+---------------
+Artist: InstaHit Crew
+Track Title: I Miss the Misery
+Album: Rock's Ultimate Hit Essentials, Vol. 55
+Preview Link: https://p.scdn.co/mp3-preview/e74f092ee70080e668781fe1b6424c2042a6e677?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+---------------
+Artist: Music Box Mania
+Track Title: I Miss the Misery
+Album: MBM Performs Halestorm
+Preview Link: https://p.scdn.co/mp3-preview/36619edb1249f98d4ac4fe20bf0e104b5af3ed0d?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+---------------
+Artist: Union Of Sound
+Track Title: I Miss the Misery
+Album: @rockers
+Preview Link: https://p.scdn.co/mp3-preview/5ecac1d852c28356d9342e5212d29c2019c609bd?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+---------------
+Artist: SBI Audio Karaoke
+Track Title: I Miss the Misery (Karaoke Version)
+Album: Sbi Gallery Series - Sbi Chart Hits, Vol. 1 (Karaoke Version)
+Preview Link: https://p.scdn.co/mp3-preview/c8709292c1934db9f190c880f5cc2f2f14b54d6a?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+---------------
+Artist: SBI Audio Karaoke
+Track Title: I Miss the Misery (Karaoke Version)
+Album: Sbi Gallery Series - Sbi Rock Hits, Vol. 1 (Karaoke Version)
+Preview Link: https://p.scdn.co/mp3-preview/c8709292c1934db9f190c880f5cc2f2f14b54d6a?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+---------------
+Artist: Singer's Edge Karaoke
+Track Title: I Miss the Misery (Originally Performed by Halestorm) - Karaoke Version
+Album: I Miss the Misery (Originally Performed by Halestorm) [Karaoke Version]
+Preview Link: https://p.scdn.co/mp3-preview/9a39d1ace232660f1669dc53ea796a77dd8c5c87?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+---------------
+Artist: Singer's Edge Karaoke
+Track Title: I Miss the Misery (Originally Performed by Halestorm) - Vocal Version
+Album: I Miss the Misery (Originally Performed by Halestorm) [Karaoke Version]
+Preview Link: https://p.scdn.co/mp3-preview/cb1b8fb511041e02688c6ce89a0fb396c5ca110e?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
+---------------
+Artist: Singer's Edge Karaoke
+Track Title: I Miss the Misery (Originally Performed by Halestorm) - Instrumental Only
+Album: I Miss the Misery (Originally Performed by Halestorm) [Karaoke Version]
+Preview Link: https://p.scdn.co/mp3-preview/3aad726b0a93843097faefc2df8306f808cc133c?cid=ea73fb876beb440eb458414ac1fc54f6
+---------------
