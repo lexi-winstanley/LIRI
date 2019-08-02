@@ -15,6 +15,9 @@ if (allArgs.length > 3) {
     action = process.argv[2];
     console.log(action);
     query = process.argv[3];
+    if (query.charAt(0) === '"' && query.charAt(query.length - 1) === '"') {
+        query = query.substr(1, query.length - 2);
+    }
     console.log(query);
 } else if (allArgs.length === 3) {
     action = process.argv[2];
@@ -104,31 +107,36 @@ function handleSpotifyResponse(response) {
     }
 }
 
-async function movie(query) {
+function movie(query) {
     if (query === null) {
         query = 'Mr. Nobody';
     }
     let movieUrl = `http://www.omdbapi.com/?t=${query}&y=&plot=short&apikey=trilogy`;
     console.log(movieUrl);
-    await axios.get(movieUrl)
+    axios.get(movieUrl)
         .then(function (response) {
-            for (let i = 0; i < response.data.length; i++) {
-                let IMDB = response.data[i].Ratings.filter('Internet Movie Database');
-                let rottenTomatoes = response.data[i].Ratings.filter('Rotten Tomatoes');
-                console.log(`---------------`);
-                console.log(`Title: ${response.data[i].Title}`);
-                console.log(`Year Released: ${response.data[i].Year}`);
-                console.log(`IMDB Rating: ${IMDB[i].Value}`);
-                console.log(`Rotten Tomatoes Rating: ${rottenTomatoes[i].Value}`);
-                console.log(`Production Country: ${response.data[i].Country}`);
-                console.log(`Language: ${response.data[i].Language}`);
-                console.log(`Plot: ${response.data[i].Plot}`);
-                console.log(`Actors: ${response.data[i].Actors}`);
-                console.log(`---------------`);
+            let ratings = response.data.Ratings;
+            let IMDB = ratings.filter(r => r.Source === 'Internet Movie Database');
+            let rottenTomatoes = ratings.filter(r => r.Source === 'Rotten Tomatoes');
+            console.log(`---------------`);
+            console.log(`Title: ${response.data.Title}`);
+            console.log(`Year Released: ${response.data.Year}`);
+            if (IMDB.length === 0) {
+                console.log('IMDB Rating: None for this movie');
+            } else {
+                console.log(`IMDB Rating: ${IMDB[0].Value}`);
             }
-        }).catch(function(err) {
-            console.log(err);
-    });
+            if (rottenTomatoes.length === 0) {
+                console.log('Rotten Tomatoes Rating: None for this movie');
+            } else {
+                console.log(`Rotten Tomatoes Rating: ${rottenTomatoes[0].Value}`);
+            }
+            console.log(`Production Country: ${response.data.Country}`);
+            console.log(`Language: ${response.data.Language}`);
+            console.log(`Plot: ${response.data.Plot}`);
+            console.log(`Actors: ${response.data.Actors}`);
+            console.log(`---------------`);
+        });
 }
 
 function fileAction() {
@@ -140,6 +148,9 @@ function fileAction() {
         action = response[0];
         console.log(action);
         query = response[1];
+        if (query.charAt(0) === '"' && query.charAt(query.length - 1) === '"') {
+            query = query.substr(1, query.length - 2);
+        }
         console.log(query);
         runLIRI(action, query);
     });
