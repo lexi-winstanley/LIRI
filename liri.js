@@ -2,6 +2,7 @@ require('dotenv').config();
 
 const keys = require('./keys.js');
 const axios = require('axios');
+const moment = require('moment');
 const Spotify = require('node-spotify-api');
 const spotify = new Spotify(keys.spotify);
 const fs = require('fs');
@@ -43,13 +44,14 @@ function concert(query) {
                 let region = response.data[i].venue.region;
                 let country = response.data[i].venue.country;
                 let location = city + ', ' + country;
+                let date = response.data[i].datetime;
                 if (region !== '') {
                     location = city + ', ' + region + ', ' + country;
                 }
                 console.log(`---------------`);
                 console.log(`Venue Name: ${response.data[i].venue.name}`);
                 console.log(`Location: ${location}`);
-                console.log(`Date: ${response.data[i].datetime}`);
+                console.log(`Date: ${moment(date).format('MM/DD/YYYY')}`);
                 console.log(`---------------`);
             }
     });
