@@ -29,7 +29,7 @@ if (allArgs.length > 3) {
     appendLog(command);
     runLIRI(action, query);
 } else {
-    console.log('Please enter an action for LIRI bot to take: \nconcert-this \'ARTIST/BAND\' \nspotify-this-song \'SONG NAME\' \nmovie-this \'MOVIE NAME\' \ndo-what-it-says');
+    console.log('Please enter an action for LIRI bot to take: \nconcert-this "ARTIST/BAND" \nspotify-this-song "SONG NAME" \nmovie-this "MOVIE NAME" \ndo-what-it-says');
 }
 
 
