@@ -7,38 +7,38 @@ This is a CLI App that allows users to query the following APIs from the command
 This application is organized into 4 main functions which run based on a switch case from the command input by the user, if the command matches one of LIRI's commands the appropriate function is called. If the user command does not match one of LIRI's commands a default error message and possible valid commands are displayed. Each time results are received from a query, they are displayed in the terminal and also appended to a log.txt file.
 
 ## Instructions
-Notes: this application requires Node.js and several Node packages. These dependencies can be found in the package.json file and are necessary for LIRI to work as described.
+**Notes:** this application requires Node.js and several Node packages. These dependencies can be found in the package.json file and are necessary for LIRI to work as described.
 
 From the terminal type the following: 
 
-<br/>node liri.js command "query"
+**node liri.js command "query"**
 
-<br/>Then press enter. LIRI will query the appropriate API and display the results in the terminal. LIRI will also print the commands/results to the log.txt file. 
+Then press enter. LIRI will query the appropriate API and display the results in the terminal. LIRI will also print the commands/results to the log.txt file. 
 
 If no arguments are passed to LIRI or an invalid command is used an error will appear: 
 
 
 ## Possible Commands/Results 
-Command: concert-this "artist/band"
-<br/>Results: venue name, venue location, event date
+**Command:** concert-this "artist/band"
+<br/>**Results:** venue name, venue location, event date
 
-Command: spotify-this-song "song title"
-<br/>Results: artist(s), track title, album, preview link
+**Command:** spotify-this-song "song title"
+<br/>**Results:** artist(s), track title, album, preview link
 
-Command: movie-this "movie name"
-<br/>Results: movie title, year released, IMDB rating, Rotten Tomatoes rating, production country, language, plot, actors
+**Command:** movie-this "movie name"
+<br/>**Results:** movie title, year released, IMDB rating, Rotten Tomatoes rating, production country, language, plot, actors
 
-Command: do-what-it-says
-<br/>Results: will run the command and query stored in the random.txt file and return data
+**Command:** do-what-it-says
+<br/>**Results:** will run the command and query stored in the random.txt file and return data
 
 ## Video
 https://drive.google.com/file/d/1DDmtOjiep5UZF1u2BXuoOvdSeKhkbfl9/view?usp=sharing
 
 ## Technologies Used
-JavaScript
-<br/>Node.js
+**JavaScript**
+<br/>**Node.js**
 
-Node Packages: 
+**Node Packages:** 
 <br/>axios, moment, node-spotify-api, fs, dotenv
 
 ## Role 
