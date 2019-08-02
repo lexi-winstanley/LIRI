@@ -16,20 +16,44 @@ From the terminal type the following:
 Then press enter. LIRI will query the appropriate API and display the results in the terminal. LIRI will also print the commands/results to the log.txt file. 
 
 If no arguments are passed to LIRI or an invalid command is used an error will appear: 
-![No Arguments Error](https://github.com/lexi-winstanley/LIRI/images/noArguments.PNG)
+
+![No Arguments Error](https://raw.githubusercontent.com/lexi-winstanley/LIRI/master/images/noArguments.PNG)
+
+![Invalid Arguments Error](https://raw.githubusercontent.com/lexi-winstanley/LIRI/master/images/invalidArgument.PNG)
 
 ## Possible Commands/Results 
 **Command:** concert-this "artist/band"
 <br/>**Results:** venue name, venue location, event date
 
+**Example:** 
+![concert-this with argument](https://raw.githubusercontent.com/lexi-winstanley/LIRI/master/images/concertResultSnip.PNG)
+
+If no "artist/band" is added, LIRI will display an error message:
+![concert-this with no argument](https://raw.githubusercontent.com/lexi-winstanley/LIRI/master/images/concertNoArgument.PNG)
+
 **Command:** spotify-this-song "song title"
 <br/>**Results:** artist(s), track title, album, preview link
+
+**Example:**
+![spotify-this-song with argument](https://raw.githubusercontent.com/lexi-winstanley/LIRI/master/images/spotifyResult.PNG)
+
+If no "song title" is added, LIRI will default to "The Sign" by Ace of Bass:
+![spotify-this-song with no argument](https://raw.githubusercontent.com/lexi-winstanley/LIRI/master/images/spotifyNoArgument.PNG)
 
 **Command:** movie-this "movie name"
 <br/>**Results:** movie title, year released, IMDB rating, Rotten Tomatoes rating, production country, language, plot, actors
 
+**Example:**
+![movie-this with argument](https://raw.githubusercontent.com/lexi-winstanley/LIRI/master/images/movieResult.PNG)
+
+If no "movie name" is added, LIRI will default to "Mr. Nobody":
+![movie-this with no argument](https://raw.githubusercontent.com/lexi-winstanley/LIRI/master/images/movieNoArgument.PNG)
+
 **Command:** do-what-it-says
 <br/>**Results:** will run the command and query stored in the random.txt file and return data
+
+**Example:**
+![do-what-it-says](https://raw.githubusercontent.com/lexi-winstanley/LIRI/master/images/doWhatItSaysResult.PNG)
 
 ## Video
 https://drive.google.com/file/d/1DDmtOjiep5UZF1u2BXuoOvdSeKhkbfl9/view?usp=sharing
