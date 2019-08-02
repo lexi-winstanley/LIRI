@@ -10,7 +10,9 @@ This application is organized into 4 main functions which run based on a switch 
 Notes: this application requires Node.js and several Node packages. These dependencies can be found in the package.json file and are necessary for LIRI to work as described.
 
 From the terminal type the following: 
-<br/>node liri.js command "query" 
+
+<br/>node liri.js command "query"
+
 <br/>Then press enter. LIRI will query the appropriate API and display the results in the terminal. LIRI will also print the commands/results to the log.txt file. 
 
 If no arguments are passed to LIRI or an invalid command is used an error will appear: 
@@ -36,7 +38,7 @@ https://drive.google.com/file/d/1DDmtOjiep5UZF1u2BXuoOvdSeKhkbfl9/view?usp=shari
 JavaScript
 <br/>Node.js
 
-<br/>Node Packages: 
+Node Packages: 
 <br/>axios, moment, node-spotify-api, fs, dotenv
 
 ## Role 
