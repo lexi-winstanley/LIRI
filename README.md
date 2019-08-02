@@ -9,33 +9,35 @@ This application is organized into 4 main functions which run based on a switch 
 ## Instructions
 Notes: this application requires Node.js and several Node packages. These dependencies can be found in the package.json file and are necessary for LIRI to work as described.
 
-From the terminal type: node liri.js <command> "query" then press enter. LIRI will query the appropriate API and display the results in the terminal. LIRI will also print the commands/results to the log.txt file. 
+From the terminal type the following: 
+\nnode liri.js command "query" 
+\nThen press enter. LIRI will query the appropriate API and display the results in the terminal. LIRI will also print the commands/results to the log.txt file. 
 
 If no arguments are passed to LIRI or an invalid command is used an error will appear: 
 
 
 ## Possible Commands/Results 
 Command: concert-this "artist/band"
-Results: venue name, venue location, event date
+\nResults: venue name, venue location, event date
 
 Command: spotify-this-song "song title"
-Results: artist(s), track title, album, preview link
+\nResults: artist(s), track title, album, preview link
 
 Command: movie-this "movie name"
-Results: movie title, year released, IMDB rating, Rotten Tomatoes rating, production country, language, plot, actors
+\nResults: movie title, year released, IMDB rating, Rotten Tomatoes rating, production country, language, plot, actors
 
 Command: do-what-it-says
-Results: will run the command and query stored in the random.txt file and return data
+\nResults: will run the command and query stored in the random.txt file and return data
 
 ## Video
 https://drive.google.com/file/d/1DDmtOjiep5UZF1u2BXuoOvdSeKhkbfl9/view?usp=sharing
 
 ## Technologies Used
 JavaScript
-Node.js
+\nNode.js
 
-Node Packages: 
-axios, moment, node-spotify-api, fs, dotenv
+\n\nNode Packages: 
+\naxios, moment, node-spotify-api, fs, dotenv
 
 ## Role 
 Sole developer with functionality requirements provided by UW Coding Bootcamp/Trilogy Education Services.
